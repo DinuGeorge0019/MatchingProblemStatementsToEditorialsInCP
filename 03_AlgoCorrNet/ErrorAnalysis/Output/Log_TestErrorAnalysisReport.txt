@@ -1,0 +1,36 @@
+P@1 error analysis
+Problem difficulty A: Bad match: 5, Good match: 34
+Problem difficulty B: Bad match: 4, Good match: 56
+Problem difficulty C: Bad match: 1, Good match: 50
+Problem difficulty D: Bad match: 2, Good match: 36
+Problem difficulty E: Bad match: 4, Good match: 49
+Problem difficulty F: Bad match: 4, Good match: 39
+Problem difficulty G: Bad match: 1, Good match: 24
+
+P@2 error analysis
+Problem difficulty A: Bad match: 4, Good match: 35
+Problem difficulty B: Bad match: 2, Good match: 58
+Problem difficulty C: Bad match: 0, Good match: 51
+Problem difficulty D: Bad match: 0, Good match: 38
+Problem difficulty E: Bad match: 1, Good match: 52
+Problem difficulty F: Bad match: 1, Good match: 42
+Problem difficulty G: Bad match: 0, Good match: 25
+
+P@3 error analysis
+Problem difficulty A: Bad match: 3, Good match: 36
+Problem difficulty B: Bad match: 1, Good match: 59
+Problem difficulty C: Bad match: 0, Good match: 51
+Problem difficulty D: Bad match: 0, Good match: 38
+Problem difficulty E: Bad match: 1, Good match: 52
+Problem difficulty F: Bad match: 1, Good match: 42
+Problem difficulty G: Bad match: 0, Good match: 25
+
+P@5 error analysis
+Problem difficulty A: Bad match: 2, Good match: 37
+Problem difficulty B: Bad match: 1, Good match: 59
+Problem difficulty C: Bad match: 0, Good match: 51
+Problem difficulty D: Bad match: 0, Good match: 38
+Problem difficulty E: Bad match: 0, Good match: 53
+Problem difficulty F: Bad match: 1, Good match: 42
+Problem difficulty G: Bad match: 0, Good match: 25
+

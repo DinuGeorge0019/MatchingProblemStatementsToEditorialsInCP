@@ -1,0 +1,14 @@
+Size of initial corpus: 1543
+Number of training sentence-editorial pairs: 1110
+Maximum editorial length: 8634
+Minimum editorial length: 36
+Average editorial length: 967
+Standard deviation of editorial length: 760.37
+Maximum statement length: 2570
+Minimum statement length: 62
+Average statement length: 692
+Standard deviation of statement length: 353.70
+Maximum overall length: 8634
+Minimum overall length: 36
+Average overall length: 829
+Standard deviation of overall length: 608.61
